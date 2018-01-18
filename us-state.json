@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "feature": [
+    {
+      "type": "Feature",
+      "id": "01",
+      "properties": { "name": "Albama" },
+      "geoperties": {
+        "type": "Polygon",
+	"conrdinates": [[[-87.35926,35.00118],
+		[-87.35926,35.00118],[...],
+		[...],[...],
+		[...],[...]
+	]]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01",
+      "propertyies": { "name": "Albama"},
+      "geoperties": {
+        "type": "Polygon",
+	"conrdinates": [[[...],
+		[...],[...],
+		[...],[...],
+	]]
+      }
+    }
+  ]
+}
+
